@@ -11,12 +11,13 @@ body {
     height: auto;
 
 }
-.Rankingsh1 {
+.Linksh1 {
+    text-align: center;
     margin-top: 60px;
     margin-bottom: -10px;
     font-weight: bold;
     font-size: xx-large;
-    text-align: center;
+    
 }
 
 h1 {
