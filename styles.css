@@ -4,7 +4,7 @@
 }
 
 .Derrick {
-    width: 500px;
+    width: 700px;
     height: auto;
 
 }
@@ -28,7 +28,6 @@ h1 {
 }
 
 .TopLinks div {
-    background: lightblue;
     padding: 50px;
     border: 2px solid blue;
     font-weight: bold;
@@ -39,4 +38,23 @@ p {
     margin-left: 50px;
     text-indent: 45px;
     margin-right: 50px;
+}
+
+.TopLinks .Rankings{
+    background: lightslategrey;
+    background-image: url(https://d1csarkz8obe9u.cloudfront.net/posterpreviews/top-10-best-golden-podium-award-background-design-template-ee7293ab869115d9d5bbbdda42d21899_screen.jpg?ts=1627001469);
+    background-size: contain;
+    
+}
+.TopLinks .StartSits {
+
+    background: lightblue;
+    background-image: url(https://media.istockphoto.com/id/1263445363/vector/thumbs-up-and-thumb-down-icon-set-thumb-up-and-thumb-down-line-icons-flat-style-stock-vector.jpg?s=170667a&w=0&k=20&c=0XSAb2qZOhf6i97G5igSDEI8Fgdb2ZzA2pLkQZjTnyE=);
+    background-size: contain;
+}
+.TopLinks .BestBets {
+
+    background: pink;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/85/Casino-gambling.svg);
+    background-size: cover;
 }
