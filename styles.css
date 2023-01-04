@@ -1,3 +1,6 @@
+body {
+    background-color: lightgray;
+}
 .DerrickContainer {
     display: flex;
     justify-content: center;
@@ -7,6 +10,13 @@
     width: 700px;
     height: auto;
 
+}
+.Rankingsh1 {
+    margin-top: 60px;
+    margin-bottom: -10px;
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
 }
 
 h1 {
@@ -22,6 +32,7 @@ h1 {
     padding-left: 40px;
     font-size: small;
 }
+
 
 .TopLinks {
     display: flex;
