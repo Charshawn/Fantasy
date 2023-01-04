@@ -1,6 +1,12 @@
+.DerrickContainer {
+    display: flex;
+    justify-content: center;
+}
+
 .Derrick {
-    width: 600px;
+    width: 500px;
     height: auto;
+
 }
 
 h1 {
@@ -27,6 +33,10 @@ h1 {
     border: 2px solid blue;
     font-weight: bold;
     flex: 1;
-    
+}
 
+p {
+    margin-left: 50px;
+    text-indent: 45px;
+    margin-right: 50px;
 }
